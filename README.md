@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmwema" alt="dmwema" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/danielmwema" target="blank"><img src="https://img.shields.io/twitter/follow/danielmwema?logo=twitter&style=for-the-badge" alt="danielmwema" /></a> </p>
+<p align="left"> <a href="https://twitter.com/danielmwema18" target="blank"><img src="https://img.shields.io/twitter/follow/danielmwema?logo=twitter&style=for-the-badge" alt="danielmwema" /></a> </p>
 
 - 🔭 I’m currently working on **a webapp wich links all universities in my country**
 
